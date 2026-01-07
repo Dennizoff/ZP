@@ -1,9 +1,9 @@
-html {
+html{
     scroll-behavior: smooth;
 }
 
 body {
-     max-width: 576px;
+     max-width: gifpx;
      background-color: black;
      color: white;
      font-family: Arial, sans-serif;
@@ -91,7 +91,7 @@ section.programm {
     height:300px;
     color: white;
     margin: 20px 0 70px;
-    background-image: url('../IMG/Bild_07.jpg');
+    background-image: url('../IMG/Bild_07.gif');
     background-size: cover;
     background-position: center;
     border-radius: 30px;
@@ -103,7 +103,7 @@ section.programm {
     height:300px;
     color: white;
     margin: 20px 0 70px;
-    background-image: url('../IMG/Bild_03.jpg');
+    background-image: url('../IMG/Bild_03.gif');
     background-size: cover;
     background-position: center;
     border-radius: 30px;
@@ -115,7 +115,7 @@ section.programm {
     height:300px;
     color: white;
     margin: 20px 0 70px;
-    background-image: url('../IMG/Bild_08.jpg');
+    background-image: url('../IMG/Bild_08.gif');
     background-size: cover;
     background-position: center;
     border-radius: 30px;
