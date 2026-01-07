@@ -90,6 +90,7 @@ section.programm {
     height:300px;
     margin: 20px 0 70px;
     border-radius: 30px
+    max-width: 576px;
 }
 
 
