@@ -1,0 +1,178 @@
+body {
+     max-width: 576px;
+     background-color: black;
+     color: white;
+     font-family: Arial, sans-serif;
+     margin: 0 auto;
+     padding: 0; 
+     text-align: center;
+    line-height: 1.6;
+}
+
+.start {
+    padding-top: 40px;
+    padding-bottom: 340px;
+    text-align: center;
+    background-image: url('../IMG/Bild_02_2.gif');
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-size: 17px ;
+}
+
+
+
+
+header {
+    text-align: center;
+    padding: 20px ;
+}
+
+
+.Logo {
+    width: 70px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 30px;
+
+}
+
+.menu a {
+    text-decoration: none;
+    font-size: 19px;
+    color: black;
+    background-color: white;
+    border: 4px white solid;
+    padding: 5px 15px;
+    border-radius: 30px;
+    }
+
+.menu a:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px white;
+    transition: 0.2s;
+    
+ 
+}
+
+
+
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:25px;
+    font-size: 15px
+}
+
+.menu li {
+    margin: 10px;
+}
+
+
+section.programm {
+    padding: 40px;
+    text-align: justify;
+    font-size: 17px
+}
+
+
+.border1 {
+    max-width: ;
+    height:300px;
+    color: white;
+    margin: 20px 0 70px;
+    background-image: url('../IMG/Bild_07.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+
+}
+
+.border2 {
+    max-width: ;
+    height:300px;
+    color: white;
+    margin: 20px 0 70px;
+    background-image: url('../IMG/Bild_03.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+
+}
+
+.border3 {
+    max-width: ;
+    height:300px;
+    color: white;
+    margin: 20px 0 70px;
+    background-image: url('../IMG/Bild_08.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px;
+
+}
+
+
+
+
+.mail {
+    color: white;
+    background: none;
+    border: none;
+    padding: 1%;
+    font-size: 17px;
+
+}
+.mail:hover {
+    text-decoration: underline;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+
+}
+
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 20px;
+    z-index: 1000;
+}
+.back-to-top a {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    background-color: white;
+    border: 4px white solid;
+    padding: 5px 10px;
+    border-radius: 30px;
+    }
+
+
+.visitor-info {
+    padding: 40px;
+    text-align: center;
+    font-size: 17px;
+}
+
+    footer {
+    text-align: center;
+    padding: 30Px;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color:lightgray;
+
+
+
+
+}
