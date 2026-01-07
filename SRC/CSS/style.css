@@ -86,42 +86,11 @@ section.programm {
 }
 
 
-.border1 {
-    max-width: ;
+.Programm_pic {
     height:300px;
-    color: white;
     margin: 20px 0 70px;
-    background-image: url('../IMG/Bild_07.gif');
-    background-size: cover;
-    background-position: center;
-    border-radius: 30px;
-
+    border-radius: 30px
 }
-
-.border2 {
-    max-width: ;
-    height:300px;
-    color: white;
-    margin: 20px 0 70px;
-    background-image: url('../IMG/Bild_03.gif');
-    background-size: cover;
-    background-position: center;
-    border-radius: 30px;
-
-}
-
-.border3 {
-    max-width: ;
-    height:300px;
-    color: white;
-    margin: 20px 0 70px;
-    background-image: url('../IMG/Bild_08.gif');
-    background-size: cover;
-    background-position: center;
-    border-radius: 30px;
-
-}
-
 
 
 
